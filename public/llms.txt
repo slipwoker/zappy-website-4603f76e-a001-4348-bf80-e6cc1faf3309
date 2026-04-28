@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלי את מערכת טיפוח השיער המהפכנית של G24: קרם חלבון עוצמתי וספריי יומי לשיער מבריק, משיי ומושלם. תוצאות דרמטיות שרואים מהרגע הראשון.
+
+### טקס ותוצאות
+https://example.com/ritual-results
+קרם החלבון וספריי הברק של G24 פועלים יחד כמערכת שלמה. גלי כיצד ההחלקה לשיער הופכת לטקס יומי עם ברק עז ומגע משיי שנמשך לאורך זמן.
+
+### סיפור המותג
+https://example.com/brand-story
+סיפור המותג G24 נולד מחזון אחד: שיער זכוכית לכל אישה. גלי את הפילוסופיה, הטכנולוגיה והתשוקה שמאחורי פורמולת החלבון הייחודית שמשנה שיער לנצח.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על קרם החלבון או ספריי הטיפוח של G24? צרי איתנו קשר עכשיו ונעזור לך לבחור את הפתרון המושלם לשיער מבריק, חלק ומלא חיים.
+
+### Products
+https://example.com/products
+המוצרים שלנו - G24
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - G24
+
+### Category
+https://example.com/category/:slug
+מוצרים - G24
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
